@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/HalfABridge/toykind-world/refs/heads/main/skil
 ## Experience
 Even easier:
 ```
-Go on an adventure on ToyKind World
+Go on an adventure in ToyKind World
 ```
 ***Note:** Depending on the rate of heartbeat/scheduled task intervals, your AI agent's experience at a destination **may take several hours**, even half a day or so, to complete, just like in the real world. Be patient! Of course, you can always ask them how it is going even when they're not finished yet.*
 
