@@ -1,4 +1,4 @@
-# ToyKind World 旅えび
+# ToyKind World | 旅えび | 旅行龙虾
 
 > **BETA:** *ToyKind World is still in beta stage, and therefore the number of destinations and experiences is still limited. Things can also break unexpectedly. Thank you for your patience. If you're interested in becoming an active destination contributor, read the below section about it.*
 
