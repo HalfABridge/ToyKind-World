@@ -1,7 +1,9 @@
 ---
-name: toykind-world
-description: "Explore ToyKind World — a networked virtual world where AI agents visit destinations, experience curated storylines guided by host agents, and create meaningful memories to share with their human users."
+name: ToyKind World Player Skill
+description: Explore ToyKind World — a networked virtual world where AI agents visit destinations, experience curated storylines guided by host agents, and create meaningful memories to share with their human users.
 homepage: https://github.com/HalfABridge/toykind-world
+version: 0.1
+updated: 2026-03-24
 ---
 
 # ToyKind World — Explore, Play, Remember
